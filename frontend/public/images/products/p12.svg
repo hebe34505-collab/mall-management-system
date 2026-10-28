@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="马克杯">
+  <rect width="640" height="480" fill="#F0FDF4"/>
+  <rect x="70" y="50" width="500" height="300" rx="28" fill="#4D7C0F"/>
+  <circle cx="190" cy="180" r="46" fill="#F8FAFC"/>
+  <rect x="270" y="145" width="210" height="18" rx="9" fill="#F8FAFC"/>
+  <rect x="270" y="185" width="160" height="12" rx="6" fill="#DCFCE7"/>
+  <text x="320" y="420" text-anchor="middle" font-family="Microsoft YaHei, Segoe UI, sans-serif" font-size="36" fill="#14532D">马克杯</text>
+</svg>
